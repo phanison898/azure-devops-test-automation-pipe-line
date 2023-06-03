@@ -1,5 +1,5 @@
 pool:
-  vmImage: 'ubuntu-latest' # other options: 'macOS-latest', 'windows-latest'
+  vmImage: 'windows-latest' # other options: 'macOS-latest', 'windows-latest'
 
 steps:
 - task: Maven@4
