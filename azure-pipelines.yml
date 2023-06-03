@@ -1,5 +1,5 @@
 pool:
-  vmImage: 'PHANISON-ACER-S' # other options: 'macOS-latest', 'windows-latest'
+  vmImage: 'ubuntu-latest' # other options: 'macOS-latest', 'windows-latest'
 
 steps:
 - task: Maven@4
